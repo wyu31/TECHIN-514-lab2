@@ -1,3 +1,4 @@
+// This is the code for ESP32
 #define ANALOG_PIN 1
 #include <Arduino.h>
 
